@@ -1,0 +1,22 @@
+body{
+    margin: 15px;
+    background-color: black;
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    border-color: white;
+}
+
+p, td, a, li{
+    font-size: 15pt;
+}
+
+
